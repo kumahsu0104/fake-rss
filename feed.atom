@@ -5,8 +5,18 @@
   <entry>
     <title>Incident: asia-east2 failure</title>
     <summary>Cloud Run is experiencing elevated error rates in asia-east2.</summary>
-    <link href="https://github.com/kumahsu0104/fake-rss/blob/main/feed.atom"/>
+    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
     <id>fake-incident-001</id>
     <updated>2025-07-17T14:00:00Z</updated>
   </entry>
+
+  <entry>
+    <title>New Outage in asia-east2</title>
+    <summary>Cloud Storage showing degraded performance in asia-east2.</summary>
+    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
+    <id>fake-incident-002</id>
+    <updated>2025-07-17T15:00:00Z</updated>
+  </entry>
+
 </feed>
+
