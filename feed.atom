@@ -3,7 +3,7 @@
   <title>GCP Status Feed - Fake</title>
   <updated>2025-07-17T14:00:00Z</updated>
   <entry>
-    <title>🚨 Incident: asia-east2 failure</title>
+    <title>Incident: asia-east2 failure</title>
     <summary>Cloud Run is experiencing elevated error rates in asia-east2.</summary>
     <link href="https://github.com/kumahsu0104/fake-rss/blob/main/feed.atom"/>
     <id>fake-incident-001</id>
