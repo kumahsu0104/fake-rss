@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GCP Status Feed - Fake</title>
+  <updated>2025-07-17T14:00:00Z</updated>
+  <entry>
+    <title>🚨 Incident: asia-east2 failure</title>
+    <summary>Cloud Run is experiencing elevated error rates in asia-east2.</summary>
+    <link href="https://status.cloud.google.com/fake-incident"/>
+    <id>fake-incident-001</id>
+    <updated>2025-07-17T14:00:00Z</updated>
+  </entry>
+</feed>
