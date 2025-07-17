@@ -42,5 +42,15 @@
     <updated>2025-07-17T18:00:00Z</updated>
   </entry>
 
+  <entry>
+    <title>something happened in asia-east5</title>
+    <summary>asia-east5</summary>
+    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
+    <id>fake-incident-006</id>
+    <updated>2025-07-17T19:00:00Z</updated>
+  </entry>
+
+
+
 </feed>
 
