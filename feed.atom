@@ -2,69 +2,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>GCP Status Feed - Fake</title>
   <updated>2025-07-17T14:00:00Z</updated>
-  <entry>
-    <title>something happened in asia-east1</title>
-    <summary>something happened in asia-east1</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-001</id>
-    <updated>2025-07-17T14:00:00Z</updated>
-  </entry>
-
-  <entry>
-    <title>something happened in asia-east2</title>
-    <summary>something happened in asia-east2</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-002</id>
-    <updated>2025-07-17T15:00:00Z</updated>
-  </entry>
-
-  <entry>
-    <title>something happened in asia-east3</title>
-    <summary>asia-east3</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-003</id>
-    <updated>2025-07-17T16:00:00Z</updated>
-  </entry>
-
-  <entry>
-    <title>something happened in asia-east4</title>
-    <summary>asia-east4</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-004</id>
-    <updated>2025-07-17T17:00:00Z</updated>
-  </entry>
-
-  <entry>
-    <title>something happened in asia-east2</title>
-    <summary>asia-east2</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-005</id>
-    <updated>2025-07-17T18:00:00Z</updated>
-  </entry>
-
-  <entry>
-    <title>something happened in asia-east5</title>
-    <summary>asia-east5</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-006</id>
-    <updated>2025-07-17T19:00:00Z</updated>
-  </entry>
-
-  <entry>
-    <title>something happened in asia-east2</title>
-    <summary>asia-east2</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-007</id>
-    <updated>2025-07-17T20:00:00Z</updated>
-  </entry>
-
-  <entry>
-    <title>something happened in asia-east6</title>
-    <summary>asia-east6</summary>
-    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
-    <id>fake-incident-008</id>
-    <updated>2025-07-17T21:00:00Z</updated>
-  </entry>
 
   <entry>
     <title>RESOLVED: something happened in asia-east2</title>
