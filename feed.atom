@@ -4,11 +4,19 @@
   <updated>2025-07-17T14:00:00Z</updated>
 
   <entry>
-    <title>something happened asia-east2</title>
-    <summary>asia-east2</summary>
+    <title>something happened asia-east1</title>
+    <summary>asia-east1</summary>
     <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
     <id>fake-incident-001</id>
     <updated>2025-07-23T11:00:00Z</updated>
+  </entry>
+
+  <entry>
+    <title>something happened asia-east2</title>
+    <summary>asia-east2</summary>
+    <link href="https://kumahsu0104.github.io/fake-rss/feed.atom"/>
+    <id>fake-incident-002</id>
+    <updated>2025-07-24T11:00:00Z</updated>
   </entry>
 
 
